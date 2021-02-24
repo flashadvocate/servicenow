@@ -1,5 +1,5 @@
 {
-    "name": "flashadvocate/ServiceNow",
+    "name": "flashadvocate/servicenow",
     "description": "Service Now API PHP Client",
     "keywords": ["service now", "servicenow rest"],
     "license": "MIT",
